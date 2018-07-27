@@ -5,5 +5,7 @@
   
   #social {
     position: absolute;
+    width: auto;
+    
   }
 }
